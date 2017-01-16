@@ -1,0 +1,25 @@
+{
+  "scene1": {
+    "title": "アプリのタイトル",
+    "info": "がめんをたっぷするとはじまるよ"
+  },
+  "scene2": {
+    "menu1": {
+      "title": "メニュー１",
+      "say": "メニュー１が押されたよ"
+    },
+    "menu2": {
+      "title": "メニュー２",
+      "say": "メニュー２が押されたよ"
+    }
+  },
+  "scene3": {
+      "info": "Pepperのタブレット開発はTapperが便利です。",
+      "header": "ヘッダーのさんぷる",
+      "footer": "TapperSample",
+      "menuend":{
+        "title": "おわり",
+        "say":"おしまい！まタ遊んでねッ"
+      }
+  }
+}
